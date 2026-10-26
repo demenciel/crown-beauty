@@ -7,4 +7,4 @@ A static redesign of the [Crown Beauty Bar gift cards page](https://crownbeautyb
 - `script.js`: amount picker, card tilt, scroll reveals, mobile action bar
 - `assets/img/`: the salon's own photos, resized
 
-Open `index.html` in a browser to preview. Pushes to `main` deploy to GitHub Pages through `.github/workflows/pages.yml`.
+Open `index.html` in a browser to preview. Pushes to `main` or `claude/quirky-carson-ugg3qr` deploy to GitHub Pages through `.github/workflows/pages.yml`. Pages must first be enabled under Settings → Pages → Source: **GitHub Actions**.
